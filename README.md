@@ -1,5 +1,5 @@
 ```
-Next Update: 26/2/2021 20:00 (UTC+2)
+Next Update: 21/2/2021 20:00 (UTC+2)
 Changelog: Atms
 
 Credits:
